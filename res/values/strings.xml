@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SavePathActivity!</string>
+    <string name="app_name">SavePath</string>
+    <string name="clean">清除</string>
+    <string name="color">颜色</string>
+    <string name="undo">撤消</string>
+    <string name="redo">恢复</string>
+
+</resources>
